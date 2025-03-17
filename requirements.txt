@@ -1,0 +1,10 @@
+argparse
+cv2
+joblib
+matplotlib
+numpy
+scipy
+scikit-image
+scikit-learn
+imutils
+tk
